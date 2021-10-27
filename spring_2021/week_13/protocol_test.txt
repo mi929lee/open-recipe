@@ -1,0 +1,2 @@
+['transfer', 5.0, ('biorad_96_wellplate_200ul_pcr', '1', '1D'), ('biorad_96_wellplate_200ul_pcr', '1', '1F')]
+['transfer', 1.0, ('biorad_96_wellplate_200ul_pcr', '1', '1E'), ('biorad_96_wellplate_200ul_pcr', '1', '1F')]
