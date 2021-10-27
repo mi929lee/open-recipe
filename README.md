@@ -15,7 +15,8 @@ This is to run OT-2 simulations.
 
 1. Open the file directory containing the python protocol files (files ending with `.py`).
 
-    - Here, the protocols are under the `protocols` folder. Assuming this GitHub repository is on your Desktop and you just opened a new terminal, this would be the set of commands you would run:
+    - Here, the protocols are under the `protocols` folder. Assuming this GitHub repository is on your Desktop and you just opened a new terminal, run the commands on the right side of the `%` symbol. 
+        - The text on the left of the `%` symbol should be what your command line already provides.
         ```zsh
             name@computer_name ~ % cd Desktop
             name@computer_name Desktop % cd open-recipe
