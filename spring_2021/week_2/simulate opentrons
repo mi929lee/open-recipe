@@ -1,0 +1,13 @@
+## simulate protocol
+
+opentrons_simulate my_protocol.py (for OS X)
+
+python -m opentrons.simulate /path/to/protocol
+
+## possible command line options
+
+opentrons_simulate --help
+
+## custom labware
+
+python.exe -m opentrons.simulate --custom-labware-path="C:\Custom Labware"
