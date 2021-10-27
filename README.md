@@ -34,3 +34,6 @@ This is to run OT-2 simulations.
     **Note**: Replace `my_protocol.py` with the name of whatever file you want to simulate.
 
 3. The output from running the simulation should show what commands the pipetting robot OT-2 would have done if the protocol were run on the robot directly.
+
+## Reference
+All Python protocols are based on the [OT-2 Python Protocol API Version 2](https://docs.opentrons.com/v2/index.html).
